@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Суслова Каролина](https://up.htmlacademy.ru/htmlcss/28/user/1414605).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Поданев](https://htmlacademy.ru/profile/mpodanev).
 
 ---
 
